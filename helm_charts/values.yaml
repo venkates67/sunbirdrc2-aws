@@ -69,7 +69,7 @@ global:
     root_path: http://vaultkv:8200/v1/kv
     vault_timeout: 5000
     vault_proxy: false
-    vault_token: 
+     
   sunbird:
     enable_auth: false
     signing_algo: Ed25519
