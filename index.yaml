@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sunbird_rc_charts:
+  - apiVersion: v2
+    appVersion: 0.0.13
+    created: "2024-04-15T09:02:59.132330874Z"
+    description: A Helm chart for Sunbird RC
+    digest: 2b2393f845f0a18979e7b2a5a2167b33710140eee1d5a6f7feaddedb1e296646
+    name: sunbird_rc_charts
+    type: application
+    urls:
+    - sunbird_rc_charts-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-04-15T09:02:59.126226289Z"
